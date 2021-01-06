@@ -1,0 +1,1 @@
+A Python program that can detect human face and the average RGB value of some little area on the head.
